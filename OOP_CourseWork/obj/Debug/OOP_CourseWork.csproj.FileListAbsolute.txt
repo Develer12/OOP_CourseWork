@@ -1,0 +1,15 @@
+D:\Subject\OOP_CourseWork\OOP_CourseWork\bin\Debug\OOP_CourseWork.exe.config
+D:\Subject\OOP_CourseWork\OOP_CourseWork\bin\Debug\OOP_CourseWork.exe
+D:\Subject\OOP_CourseWork\OOP_CourseWork\bin\Debug\OOP_CourseWork.pdb
+D:\Subject\OOP_CourseWork\OOP_CourseWork\obj\Debug\MainWindow.g.cs
+D:\Subject\OOP_CourseWork\OOP_CourseWork\obj\Debug\App.g.cs
+D:\Subject\OOP_CourseWork\OOP_CourseWork\obj\Debug\OOP_CourseWork_MarkupCompile.cache
+D:\Subject\OOP_CourseWork\OOP_CourseWork\obj\Debug\MainWindow.baml
+D:\Subject\OOP_CourseWork\OOP_CourseWork\obj\Debug\OOP_CourseWork.g.resources
+D:\Subject\OOP_CourseWork\OOP_CourseWork\obj\Debug\OOP_CourseWork.Properties.Resources.resources
+D:\Subject\OOP_CourseWork\OOP_CourseWork\obj\Debug\OOP_CourseWork.csproj.GenerateResource.cache
+D:\Subject\OOP_CourseWork\OOP_CourseWork\obj\Debug\OOP_CourseWork.csproj.CoreCompileInputs.cache
+D:\Subject\OOP_CourseWork\OOP_CourseWork\obj\Debug\OOP_CourseWork.exe
+D:\Subject\OOP_CourseWork\OOP_CourseWork\obj\Debug\OOP_CourseWork.pdb
+D:\Subject\OOP_CourseWork\OOP_CourseWork\obj\Debug\OOP_CourseWork.csprojAssemblyReference.cache
+D:\Subject\OOP_CourseWork\OOP_CourseWork\obj\Debug\OOP_CourseWork_MarkupCompile.lref
